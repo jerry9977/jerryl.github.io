@@ -4,7 +4,6 @@ I’m currently based in Melbourne, working at Daelibs while studying full-time 
 
 I used to work as a full-time developer at Daelibs, but with the rapid rise of AI, I decided it was the right time to step back and properly dive into it. Right now I’m working part-time, and studying full-time to build a solid foundation in this space.
 
----
 
 ## What I’m focusing on
 
@@ -14,16 +13,12 @@ I’m trying to build a solid foundation across both theory and practical unders
 
 I’m particularly interested in understanding *why things work*, not just how to use them.
 
----
-
 ## Background
 
 - Software Developer @ Daelibs  
 - Now: Part-time developer + Full-time student (AI)  
 
 Currently trying to bridge the gap between practical engineering and theoretical understanding.
-
----
 
 ## Outside of tech
 
