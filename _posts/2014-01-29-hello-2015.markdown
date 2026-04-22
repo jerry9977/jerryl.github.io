@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2026"
 subtitle:   "My Blog Starts Here"
-date:       2026-04-21 12:00:00
+date:       2026-04-21 00:00:00
 author:     "Jerry"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
