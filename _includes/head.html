@@ -69,4 +69,30 @@
     <!-- Google AdSense -->
     <script data-ad-client="ca-pub-6487568398225121" async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        // mermaid.initialize({ startOnLoad: true });
+
+        document.addEventListener("DOMContentLoaded", function () {
+
+            document.querySelectorAll("code.language-mermaid").forEach((el) => {
+
+                const pre = el.parentElement;
+
+                const mermaidDiv = document.createElement("pre");
+                mermaidDiv.className = "mermaid";
+                mermaidDiv.textContent = el.textContent;
+
+                pre.replaceWith(mermaidDiv);
+            });
+
+            mermaid.initialize({ startOnLoad: true });
+        });
+    </script>
+
+
+    <script>
+    
+    </script>
 </head>
